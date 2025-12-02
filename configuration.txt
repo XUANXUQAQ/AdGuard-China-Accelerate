@@ -116332,4 +116332,7 @@
 [/zzzyyy.com/]192.168.5.1:8053
 [/zzzzaaaa.com/]192.168.5.1:8053
 [/zzzzzz.me/]192.168.5.1:8053
-192.168.5.1:6553
+https://cloudflare-dns.com/dns-query
+tls://one.one.one.one
+https://dns.google/dns-query
+tls://dns.google
