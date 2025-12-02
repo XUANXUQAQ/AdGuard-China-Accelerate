@@ -116336,3 +116336,5 @@ https://cloudflare-dns.com/dns-query
 tls://one.one.one.one
 https://dns.google/dns-query
 tls://dns.google
+https://dns.quad9.net/dns-query
+tls://dns.quad9.net
