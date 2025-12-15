@@ -7,7 +7,7 @@ def convert_list(input_filepath, output_filepath):
         pattern_bracket = r'['
         
         old_dns = r'/114.114.114.114'
-        new_dns = r'/]192.168.5.1:8053'
+        new_dns = r'/]192.168.5.1:45454'
             
         for line in source_file:
             converted_line = re.sub(pattern_server, pattern_bracket, line)
