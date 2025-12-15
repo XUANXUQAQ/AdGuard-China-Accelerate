@@ -4,3 +4,4 @@ https://dns.google/dns-query
 tls://dns.google
 https://dns.quad9.net/dns-query
 tls://dns.quad9.net
+tcp://192.168.5.1:45454
